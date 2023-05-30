@@ -1,4 +1,4 @@
-from turtle import*
+from turtle import *
 speed('slowest')
 for i in range(6):
     fd(100)
