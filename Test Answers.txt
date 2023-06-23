@@ -1,0 +1,22 @@
+Test Answers
+
+1. False
+2. print(f'we have {len(fruits)} fruits')
+3. tuple cant split
+4. quotelist
+5. len(word)
+6. fruitlist=['banana','pear','apple']
+7. Found
+8. replace
+9. vowel
+10."strip me!"
+11. print(teachers.upper())
+12. 5
+13. brackets placed wrong
+14. 4
+15. 1 , 5 , 15
+16. [2,4,6,8,10]
+17. numbers=[x+2 for x in numbers]
+18. random
+19. f.close()
+20. f.open() before f.write()
