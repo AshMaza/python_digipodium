@@ -21,7 +21,6 @@ while cam.isOpened():
             cv2.imshow('Face{i}',faceROI)
             eyes =  eyes_cascade.detectMultiScale(faceROI)
             
-
     else:
         #display no face found
         cv2.putText(
